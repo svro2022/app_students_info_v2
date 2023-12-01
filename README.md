@@ -1,4 +1,4 @@
-# Урок 10. Домашнее задание <br>
+# App: students information (FLASK)<br>
 
 ---
 
@@ -6,7 +6,6 @@
 
 Сохраните данные ниже в JSON файл candidates.json.
 
-- Содержание файла (раскрой меня!)
     
     ```python
     # candidates.json
